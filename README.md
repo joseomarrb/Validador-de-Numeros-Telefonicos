@@ -3,7 +3,7 @@ Este proyecto fue creado para hacer un proyecto de freeCodeCamp en el que tengo 
 mediante lo que ya he aprendido practicando con sus ejercicios anteriormente.
 
 ## Reglas del Proyecto
-[Captura-de-pantalla-20.png](https://postimg.cc/rRdJzWFf)
+[![Captura-de-pantalla-20.png](https://i.postimg.cc/d36SHjMc/Captura-de-pantalla-20.png)](https://postimg.cc/rRdJzWFf)
 
 1. Debe tener un elemento de entrada con un id de "user-input"
 
