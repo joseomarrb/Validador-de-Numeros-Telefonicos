@@ -104,3 +104,6 @@ debe contener el texto ***"Número de EE. UU. no válido: 2(757)622-7382"***
 
 Cumpla con las historias de usuario y apruebe todas las pruebas a continuación
 para completar este proyecto. Déle su propio estilo personal. ¡Feliz codificación!
+
+## Proyecto Finalizado :)
+[![Captura-de-pantalla-24.png](https://i.postimg.cc/YCx7SvJZ/Captura-de-pantalla-24.png)](https://postimg.cc/dhDpHVQj)
