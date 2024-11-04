@@ -9,11 +9,8 @@
 
 body{
     font-family: "Inter", sans-serif;
-    /* width: 100%; */
+    padding: 20px 0;
     height: 100vh;
-    /* display: flex; */
-    /* align-items: center; */
-    /* justify-content: center; */
     position: relative;
     z-index: 99;
     background-color: #1a1a1a;
@@ -49,7 +46,6 @@ body{
     box-shadow: 1px 2px 20px 2px #fff5;
     border: 20px solid black;
     border-radius: 20px;
-    /* border-top: 40px solid; */
     background-color: #000;
     display: flex;
     flex-direction: column;
@@ -103,8 +99,27 @@ body{
 }
 
 #results-div{
+    margin: 10px 0;
     font-size: 18px;
     padding: 0;
+    text-align: center
+}
+
+.results{
+    margin: 10px 0;
+    font-size: 18px;
+    padding: 0;
+    text-align: center
+}
+
+.aprobado{
+    font-weight: bold;
+    color: rgb(9, 168, 9);
+}
+
+.error{
+    font-weight: bold;
+    color: rgb(255, 12, 12);
 }
 
 #buttons{
